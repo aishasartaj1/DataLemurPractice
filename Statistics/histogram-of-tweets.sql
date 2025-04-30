@@ -1,4 +1,7 @@
--- Histogram of Tweets
+-- Problem: Histogram of Tweets
+-- Source: https://datalemur.com/questions/sql-histogram-tweets
+-- Difficulty: Easy
+
 WITH total_tweets AS (
   SELECT user_id, COUNT(tweet_id) AS tweet_user
   FROM tweets
