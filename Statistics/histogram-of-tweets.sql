@@ -1,5 +1,5 @@
 -- Problem: Histogram of Tweets
--- Source: https://datalemur.com/questions/sql-histogram-tweets
+-- Source: <https://datalemur.com/questions/sql-histogram-tweets>
 -- Difficulty: Easy
 
 WITH total_tweets AS (
