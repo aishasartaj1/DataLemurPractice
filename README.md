@@ -1,2 +1,3 @@
 # DataLemurPractice
-Curated SQL, Statistics, ML &amp; Python interview questions from DataLemur with clean solutions
+A curated collection of SQL, Statistics, Machine Learning, and Python interview questions from [DataLemur](https://datalemur.com/questions), with clean, well-documented solutions.
+
